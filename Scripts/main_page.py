@@ -4,7 +4,7 @@ def main_p():
     st.title("PakWheels Car Price Predictor 🚗")
     
     st.subheader("🚗 Welcome to the Car Price Predictor!")
-    st.write(" ** Hi, I am 'Fatima Waheed',I am a BSAI student, driven by a deep curiosity to understand and advance AI. My focus is on creating, experimenting, and pushing the boundaries of what's possible**") 
+    st.write("**Hi, I am 'Fatima Waheed',I am a BSAI student, driven by a deep curiosity to understand and advance AI. My focus is on creating, experimenting, and pushing the boundaries of what's possible**") 
     st.markdown("""You can connect with me on [linkdine](https://www.linkedin.com/in/fatima-waheed-3b4397338/)
                 And also on githun so that when ever I create a new project you can easily access it from [github](https://github.com/Fatima-Waheed0).""")
 
