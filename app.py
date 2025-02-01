@@ -9,7 +9,8 @@ from Scripts.eda import show_eda
 from Scripts.main_page import main_p
 from Scripts.prediction import show_prediction
 
-st.sidebar.title("Navigation")
+st.sidebar.title("Select Page")
+st.sidebar.write("You can select page from here:")
 page = st.sidebar.selectbox("Go to", [ "Main Page" ,"EDA", "Report", "Prediction"])
 
 if page == "Main Page":
