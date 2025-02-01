@@ -58,7 +58,7 @@ def show_report():
     
     st.markdown("**Model Column:**")
     st.write("Most cars were manufactured between 2000 and 2021. A histogram of model years indicates a significant increase in listings during this period.")
-    st.image("images/model.jpg")
+    st.image("model.jpg")
 
     
     st.markdown("**Engine Type Column:**")
@@ -71,7 +71,7 @@ def show_report():
     - Electric: 439 cars
     - LPG: 56 cars
     """)
-    st.image("images/engine_type.jpg")
+    st.image("engine_type.jpg")
     
     
     st.markdown("**Transmission Column:**")
@@ -85,7 +85,7 @@ def show_report():
     - Power: Numerical engine capacity.
     - Unit: The measurement unit (CC/kWh).
     """)
-    st.image("images/transmission.jpg")
+    st.image("transmission.jpg")
     
     st.header("7. Summary")
     st.write("""
